@@ -1,0 +1,1 @@
+ALTER TABLE `currency_master` ADD `is_default` ENUM('y','n') NOT NULL DEFAULT 'n' AFTER `currency_name`, ADD `multiplier` FLOAT NULL DEFAULT NULL AFTER `is_default`;

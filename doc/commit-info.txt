@@ -1,0 +1,5 @@
+this new file commit has 
+* Many unnecessary menus removed
+* Capital logic comment removed
+* Net profit loss comment removed
+* Previous commit has Payment, Receipt, Contra, Journal buttons in MB trans and Swipe

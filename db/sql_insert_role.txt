@@ -1,0 +1,6 @@
+INSERT INTO `website_modules` (`website_module_id`, `title`, `main_module`) VALUES (NULL, 'mbtrans', '18');
+
+INSERT INTO `module_roles` (`module_role_id`, `title`, `role_name`, `website_module_id`) VALUES (NULL, 'view', 'view', '51');
+INSERT INTO `module_roles` (`module_role_id`, `title`, `role_name`, `website_module_id`) VALUES (NULL, 'add', 'add', '51');
+INSERT INTO `module_roles` (`module_role_id`, `title`, `role_name`, `website_module_id`) VALUES (NULL, 'edit', 'edit', '51');
+INSERT INTO `module_roles` (`module_role_id`, `title`, `role_name`, `website_module_id`) VALUES (NULL, 'delete', 'delete','51');

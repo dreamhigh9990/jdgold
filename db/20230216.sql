@@ -1,0 +1,1 @@
+ALTER TABLE `currency_master` ADD `created_at` DATETIME NOT NULL AFTER `currency_name`, ADD `updated_at` DATETIME NOT NULL AFTER `created_at`, ADD `updated_by` INT NOT NULL AFTER `updated_at`, ADD `user_updated_by` INT NOT NULL AFTER `updated_by`, ADD `created_by` INT NOT NULL AFTER `user_updated_by`, ADD `user_created_by` INT NOT NULL AFTER `created_by`;

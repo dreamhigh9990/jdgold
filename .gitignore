@@ -1,0 +1,6 @@
+/assets/uploads/quotation_docs*
+/uploads
+/application/logs
+
+.htaccess
+/application/config/database.php

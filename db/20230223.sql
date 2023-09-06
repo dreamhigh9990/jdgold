@@ -1,0 +1,1 @@
+ALTER TABLE `account` ADD `remote_account_name` VARCHAR(900) NULL AFTER `account_name`;

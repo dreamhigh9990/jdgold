@@ -1,0 +1,9 @@
+INSERT INTO `website_modules` (`website_module_id`, `title`, `main_module`) VALUES (NULL, 'View Previous Date Data', '20');
+
+INSERT INTO `website_modules` (`website_module_id`, `title`, `main_module`) VALUES (NULL, 'Change Transaction Date', '21');
+
+
+INSERT INTO `module_roles` (`module_role_id`, `title`, `role_name`, `website_module_id`) VALUES (NULL, 'view', 'view', '53');
+
+INSERT INTO `module_roles` (`module_role_id`, `title`, `role_name`, `website_module_id`) VALUES (NULL, 'view', 'view', '54');
+

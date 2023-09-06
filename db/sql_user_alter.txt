@@ -1,0 +1,1 @@
+ALTER TABLE `user` ADD `user_default_cash_acc_id` INT NOT NULL DEFAULT '0' AFTER `company_id`;

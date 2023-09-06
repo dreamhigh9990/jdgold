@@ -1,0 +1,7 @@
+INSERT INTO `website_modules` (`website_module_id`, `title`, `main_module`) VALUES (NULL, 'Report >> depoWithdraw', '13.1');
+
+INSERT INTO `module_roles` (`module_role_id`, `title`, `role_name`, `website_module_id`) VALUES (NULL, 'view', 'view', '55');
+
+
+
+
